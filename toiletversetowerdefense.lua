@@ -2,7 +2,7 @@
 local Fluent = loadstring(game:HttpGet("https://github.com"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Toilet Verse TD Hub 🛠️ Delta",
+    Title = "hub9er's tvtd script for delta",
     SubTitle = "by AI Custom",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
